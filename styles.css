@@ -80,6 +80,10 @@ img{
     color: blue;
 }
 
+.second-section{
+    padding: 50px;
+}
+
 .second-section-content-title{
     font-size: 36px;
     text-align: center;
@@ -100,5 +104,25 @@ img{
 
 .second-section-information{
     text-align: center;
+}
+
+.third-section{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding-right: 300px;
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-bottom: 40px;
+}
+
+.third-section-quote{
+    font-size: 36px;
+    text-align: center;
+}
+
+.third-section-quote-speaker{
+    text-align: right;
+    font-size: 18px;
 }
 
